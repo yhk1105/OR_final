@@ -48,4 +48,4 @@ The project is divided into two main phases:
 - **Conclusions:**  
   A summary of findings, discussion on challenges (such as demand estimation and data acquisition), and recommendations for future improvements and broader implementation.
 
-For a complete and detailed explanation—including mathematical formulations, algorithm pseudocode, experimental results, and evaluation graphs—please refer to the attached PDF presentation: [TeamO_final_project.pdf](TeamO_final_project.pdf).
+For a complete and detailed explanation—including mathematical formulations, algorithm pseudocode, experimental results, and evaluation graphs—please refer to the attached PDF presentation: [TeamO_final_project.pdf](TeamO_final_project_compressed.pdf).
